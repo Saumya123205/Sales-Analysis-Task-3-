@@ -54,3 +54,8 @@ The dataset includes Customers, Orders, Order Details, and Products, and the goa
 
 The SQL-based analysis provided valuable business insights into revenue, customers, products, and trends.
 By focusing on profitable products, loyal customers, and top-performing regions, businesses can drive sustained growth.
+
+👤 Author
+
+** Saumyasuteshnu Behera
+Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning | Advanced Excel
