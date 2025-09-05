@@ -57,5 +57,5 @@ By focusing on profitable products, loyal customers, and top-performing regions,
 
 👤 Author
 
-** Saumyasuteshnu Behera
-Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning | Advanced Excel
+## Saumyasuteshnu Behera
+## Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning | Advanced Excel
