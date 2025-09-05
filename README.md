@@ -1,4 +1,6 @@
 # 📊 SQL Sales Analysis Project
+<img width="280" height="350" alt="Infographic image (Sales Analysis)" src="https://github.com/user-attachments/assets/d70c2b91-9c17-4a63-be6b-b3cd4c03231f" />
+
 ## 📌 Project Overview
 
 This project demonstrates the use of SQL for business data analysis on a retail sales dataset.
